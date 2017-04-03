@@ -1,0 +1,246 @@
+[
+  {
+    "boardIndex": 0,
+    "spaceType": "Other",
+    "name": "Go",
+    "credits": 200
+  },
+  {
+    "boardIndex": 1,
+    "spaceType": "Property",
+    "name": "Mediterranean Avenue",
+    "credits": 60
+  },
+  {
+    "boardIndex": 2,
+    "spaceType": "CommunityChest",
+    "name": "CommunityChest",
+    "credits": 0
+  },
+  {
+    "boardIndex": 3,
+    "spaceType": "Property",
+    "name": "Baltic Avenue",
+    "credits": 60
+  },
+  {
+    "boardIndex": 4,
+    "spaceType": "TaxOffice",
+    "name": "Income Tax",
+    "credits": 200
+  },
+  {
+    "boardIndex": 5,
+    "spaceType": "Railroad",
+    "name": "Reading RailRoad",
+    "credits": 0
+  },
+  {
+    "boardIndex": 6,
+    "spaceType": "Property",
+    "name": "Oriental Avenue",
+    "credits": 100
+  },
+  {
+    "boardIndex": 7,
+    "spaceType": "Chance",
+    "name": "Chance",
+    "credits": 0
+  },
+  {
+    "boardIndex": 8,
+    "spaceType": "Property",
+    "name": "Vermont Avenue",
+    "credits": 100
+  },
+  {
+    "boardIndex": 9,
+    "spaceType": "Property",
+    "name": "Connecticut Avenue",
+    "credits": 60
+  },
+  {
+    "boardIndex": 10,
+    "spaceType": "Other",
+    "name": "Just Visiting/In jail",
+    "credits": 0
+  },
+  {
+    "boardIndex": 11,
+    "spaceType": "Property",
+    "name": "St Charles Place",
+    "credits": 120
+  },
+  {
+    "boardIndex": 12,
+    "spaceType": "Supplier",
+    "name": "Electric Company",
+    "credits": 5
+  },
+  {
+    "boardIndex": 13,
+    "spaceType": "Property",
+    "name": "States Avenue",
+    "credits": 140
+  },
+  {
+    "boardIndex": 14,
+    "spaceType": "Property",
+    "name": "Virginia Avenue",
+    "credits": 160
+  },
+  {
+    "boardIndex": 15,
+    "spaceType": "Railroad",
+    "name": "Pennsylvania Railroad",
+    "credits": 0
+  },
+  {
+    "boardIndex": 16,
+    "spaceType": "Property",
+    "name": "St. James Place",
+    "credits": 180
+  },
+  {
+    "boardIndex": 17,
+    "spaceType": "CommunityChest",
+    "name": "CommunityChest",
+    "credits": 0
+  },
+  {
+    "boardIndex": 18,
+    "spaceType": "Property",
+    "name": "Tennesse Avenue",
+    "credits": 180
+  },
+  {
+    "boardIndex": 19,
+    "spaceType": "Property",
+    "name": "New York Avenue",
+    "credits": 200
+  },
+  {
+    "boardIndex": 20,
+    "spaceType": "Other",
+    "name": "Free Parking",
+    "credits": 0
+  },
+  {
+    "boardIndex": 21,
+    "spaceType": "Property",
+    "name": "Kentucky Avenue",
+    "credits": 120
+  },
+  {
+    "boardIndex": 22,
+    "spaceType": "Chance",
+    "name": "Chance",
+    "credits": 0
+  },
+  {
+    "boardIndex": 23,
+    "spaceType": "Property",
+    "name": "Indiana Avenue",
+    "credits": 220
+  },
+  {
+    "boardIndex": 24,
+    "spaceType": "Property",
+    "name": "Illinois Avenue",
+    "credits": 240
+  },
+  {
+    "boardIndex": 25,
+    "spaceType": "Railroad",
+    "name": "B&O Railroad",
+    "credits": 0
+  },
+  {
+    "boardIndex": 26,
+    "spaceType": "Property",
+    "name": "Atlantic Avenue",
+    "credits": 260
+  },
+  {
+    "boardIndex": 27,
+    "spaceType": "Property",
+    "name": "Ventnor Avenue",
+    "credits": 260
+  },
+  {
+    "boardIndex": 28,
+    "spaceType": "Supplier",
+    "name": "Water works",
+    "credits": 10
+  },
+  {
+    "boardIndex": 29,
+    "spaceType": "Property",
+    "name": "Marvin Gardens",
+    "credits": 280
+  },
+  {
+    "boardIndex": 30,
+    "spaceType": "Other",
+    "name": "Go to jail",
+    "credits": 0
+  },
+  {
+    "boardIndex": 31,
+    "spaceType": "Property",
+    "name": "Pacific Avenue",
+    "credits": 300
+  },
+  {
+    "boardIndex": 32,
+    "spaceType": "Property",
+    "name": "North Carolina Avenue",
+    "credits": 300
+  },
+  {
+    "boardIndex": 33,
+    "spaceType": "CommunityChest",
+    "name": "Community Chest",
+    "credits": 120
+  },
+  {
+    "boardIndex": 34,
+    "spaceType": "Property",
+    "name": "Pennsylvania Avenue",
+    "credits": 320
+  },
+  {
+    "boardIndex": 35,
+    "spaceType": "Railroad",
+    "name": "Short Line",
+    "credits": 0
+  },
+  {
+    "boardIndex": 36,
+    "spaceType": "Chance",
+    "name": "Chance",
+    "credits": 0
+  },
+  {
+    "boardIndex": 37,
+    "spaceType": "Property",
+    "name": "Park Place",
+    "credits": 350
+  },
+  {
+    "boardIndex": 38,
+    "spaceType": "TaxOffice",
+    "name": "Luxury Tax",
+    "credits": 100
+  },
+  {
+    "boardIndex": 39,
+    "spaceType": "Property",
+    "name": "Boardwalk",
+    "credits": 400
+  }
+
+
+
+
+]
